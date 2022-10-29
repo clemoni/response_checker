@@ -92,6 +92,10 @@ def init_folder_scan(folder_path, scan_time=3, current_size=None, current_ts=Non
             
     return wrapper
 
+
+
+    
+
 if __name__=="__main__":
     
     print('init')
